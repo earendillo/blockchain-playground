@@ -1,0 +1,1 @@
+Can javascript into blockchain?
